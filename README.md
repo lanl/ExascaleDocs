@@ -13,7 +13,7 @@ Hash-based Algorithms for Discretized Data presentation
     at Colorado State University, Apr 6, 2012 -- LA-UR-12-01565
    R. N. Robey, D. Nicholaeff, and R. W. Robey
 
-#####Unstructured_NGPWG_Apr_2012.pdf
+######Unstructured_NGPWG_Apr_2012.pdf
 GPU Strategies for Unstructured Mesh Physics presentation
     for LANL/LLNL Working Group Meeting, Apr 10, 2012 -- LA-UR-12-20351
    Charles R. Ferenbaugh
