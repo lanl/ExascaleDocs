@@ -26,7 +26,10 @@ GPU Strategies for Unstructured Mesh Physics presentation
 ForOpenCL: Transformations Exploiting Array Syntax in Fortran
     for Accelerator Programming
  
-CLAMR paper coming
+######cell_based_amr_on_gpu.pdf
+Cell-based Adaptive Mesh Refinement (AMR) Implemented with General Purpose
+    Graphics Processing Units (GPGPUs)
+    D. Nicholaeff, N. Davis, D. Trujillo, R.W. Robey
 
 Hash paper coming
 
