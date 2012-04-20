@@ -29,7 +29,7 @@ ForOpenCL: Transformations Exploiting Array Syntax in Fortran
 ######cell_based_amr_on_gpu.pdf
 Cell-based Adaptive Mesh Refinement (AMR) Implemented with General Purpose
     Graphics Processing Units (GPGPUs)
-    D. Nicholaeff, N. Davis, D. Trujillo, R.W. Robey
+    D. Nicholaeff, N. Davis, D. Trujillo, R.W. Robey, Apr 12, 2012 -- LA-UR-11-07127
 
 Hash paper coming
 
