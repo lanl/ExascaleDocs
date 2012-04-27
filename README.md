@@ -33,5 +33,7 @@ Cell-based Adaptive Mesh Refinement (AMR) Implemented with General Purpose
 
 Hash paper coming
 
-Unstructured paper coming
+######gpu-unstructured.2012-04-23.pdf
+A Comparison of GPU Strategies for Unstructured Mesh Physics
+    Charles R. Ferenbaugh -- LA-UR-11-07098
 
