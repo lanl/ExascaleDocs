@@ -31,9 +31,13 @@ Cell-based Adaptive Mesh Refinement (AMR) Implemented with General Purpose
     Graphics Processing Units (GPGPUs)
     D. Nicholaeff, N. Davis, D. Trujillo, R.W. Robey, Apr 12, 2012 -- LA-UR-11-07127
 
-Hash paper coming
+######Hash-Based Algorithms for Discretized Data
+    R.N. Robey, D. Nicholaeff, and R.W. Robey, Apr 15, 2012 -- LA-UR-12-01566 
 
 ######gpu-unstructured.2012-04-23.pdf
 A Comparison of GPU Strategies for Unstructured Mesh Physics
     Charles R. Ferenbaugh -- LA-UR-11-07098
+
+In Search of Numerical Consistency in Parallel Programming
+   R.W. Robey, J.M. Robey, and R. Aulwes, March 7, 2011, LA-UR-10-02487
 
