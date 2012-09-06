@@ -22,9 +22,9 @@ GPU Strategies for Unstructured Mesh Physics presentation
 ###Papers:
 ==============
 
-######ForOpenCL_arxiv_1107.2157v1.pdf
-ForOpenCL: Transformations Exploiting Array Syntax in Fortran
-    for Accelerator Programming
+######ForOpenCL.pdf
+Exploiting First-class Arrays in Fortran for Accelerator Programming
+    Sottile, Rasmussen, Weseloh, Robey, Quinlan, Overbye, 2011 -- LA-UR-10-08340
  
 ######cell_based_amr_on_gpu.pdf
 Cell-based Adaptive Mesh Refinement (AMR) Implemented with General Purpose
@@ -38,6 +38,6 @@ Cell-based Adaptive Mesh Refinement (AMR) Implemented with General Purpose
 A Comparison of GPU Strategies for Unstructured Mesh Physics
     Charles R. Ferenbaugh -- LA-UR-11-07098
 
-In Search of Numerical Consistency in Parallel Programming
+######In Search of Numerical Consistency in Parallel Programming
    R.W. Robey, J.M. Robey, and R. Aulwes, March 7, 2011, LA-UR-10-02487
 
