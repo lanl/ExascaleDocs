@@ -30,8 +30,13 @@ Exploiting First-class Arrays in Fortran for Accelerator Programming
 Cell-based Adaptive Mesh Refinement (AMR) Implemented with General Purpose
     Graphics Processing Units (GPGPUs)
     D. Nicholaeff, N. Davis, D. Trujillo, R.W. Robey, Apr 12, 2012 -- LA-UR-11-07127
+    
+######CompactHashes.pdf
+    Compact Hash Algorithms for Computational Meshes
+    Tumblin, R., Ahrens, P., Hartse, S., Robey, R.W., Aug 19, 2013 -- LA-UR-13-26533
 
-######Hash-Based Algorithms for Discretized Data
+######HashAlgorithms.pdf
+    Hash-Based Algorithms for Discretized Data
     R.N. Robey, D. Nicholaeff, and R.W. Robey, Apr 15, 2012 -- LA-UR-12-01566 
 
 ######gpu-unstructured.2012-04-23.pdf
