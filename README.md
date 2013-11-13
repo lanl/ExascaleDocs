@@ -3,6 +3,13 @@ Various documents on Exascale. Documents are in repository and on download page
 ###Presentations:
 ===============
 
+######Reproducibility.pdf
+Reproducibility for Parallel Programming, part of the
+    Bit-wise Reproducibility Workshop at SC13,
+    Nov 22, 2013 -- LA-UR-13-24380
+   R. W. Robey, LANL XCP-2
+   Sapient_EPSum.tgz -- Associated exercises
+   
 ######CLAMR_Univ_New_Mexico_presentation.pdf
 CLAMR: Cell-based Adaptive Mesh Refinement (AMR) presentation
     at University of New Mexico, Jan 12, 2012 -- LA-UR-11-05345
