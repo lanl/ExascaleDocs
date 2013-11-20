@@ -9,6 +9,9 @@ Reproducibility for Parallel Programming, part of the
     Nov 22, 2013 -- LA-UR-13-24380
    R. W. Robey, LANL XCP-2
    Sapient_EPSum.tgz -- Associated exercises
+   Sapient_EPSum_wGraphics.tgz -- Associated exercises with real-time graphics
+   mpe_setup.sh & mpe.tar.gz -- Message Passing Extensions (MPE)
+      this is a build script and the distribution from Argonne National Lab
    
 ######CLAMR_Univ_New_Mexico_presentation.pdf
 CLAMR: Cell-based Adaptive Mesh Refinement (AMR) presentation
