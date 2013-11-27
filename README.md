@@ -45,6 +45,15 @@ Cell-based Adaptive Mesh Refinement (AMR) Implemented with General Purpose
     Compact Hash Algorithms for Computational Meshes
     Tumblin, R., Ahrens, P., Hartse, S., Robey, R.W., Aug 19, 2013 -- LA-UR-13-26533
 
+######zjibben_lanl_report.pdf
+    A GPU Accelerated Discontinuous Galerkin Scheme for Advection
+    Jibben, Z., Aug 23, 2013 -- LA-UR-13-26528
+    
+######zjibben_prospectus.pdf
+    A GPU Accelerated Discontinuous Galerkin Conservative Level Set Scheme for Simulating Atomization
+      Jibben, Z., PhD. Research Prospectus Nov., 2013
+
+    
 ######HashAlgorithms.pdf
     Hash-Based Algorithms for Discretized Data
     R.N. Robey, D. Nicholaeff, and R.W. Robey, Apr 15, 2012 -- LA-UR-12-01566 
