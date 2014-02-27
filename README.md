@@ -3,6 +3,11 @@ Various documents on Exascale. Documents are in repository and on download page
 ###Presentations:
 ===============
 
+######SIAM_presentation.pdf
+   Hashing in the Scientific World -- LA-UR-13-22598, Version 2
+   Feb 19th, 2014, Portland
+   Tumblin, R.,  Robey, R.W., Ahrens, P., Hartse, S.
+
 ######Reproducibility.pdf
 Reproducibility for Parallel Programming, part of the
     Bit-wise Reproducibility Workshop at SC13,
