@@ -41,6 +41,10 @@ GPU Strategies for Unstructured Mesh Physics presentation
 Exploiting First-class Arrays in Fortran for Accelerator Programming
     Sottile, Rasmussen, Weseloh, Robey, Quinlan, Overbye, 2011 -- LA-UR-10-08340
  
+######cell_based_amr_on_hybrid_architectures.pdf
+Cell-based Adaptive Mesh Refinement (AMR) on Hybrid Architectures
+    D. Nicholaeff, N. Davis, R.W. Robey, Jan 10, 2013 -- LA-UR-13-20165
+    
 ######cell_based_amr_on_gpu.pdf
 Cell-based Adaptive Mesh Refinement (AMR) Implemented with General Purpose
     Graphics Processing Units (GPGPUs)
