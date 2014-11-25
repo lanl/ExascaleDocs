@@ -1,7 +1,13 @@
-Various documents on Exascale. Documents are in repository and on download page
+Various documents on Exascale. Documents are in repository. Click on raw to download.
 
 ###Presentations:
 ===============
+
+######CLAMR_ResiliencyWork.pdf/CLAMR_ResiliencyWork.pptx
+   Resiliency Work in CLAMR, LA-UR-14-28290
+   ASC All Hands, Oct 27, 2014
+   R.W. Robey, N. DeBardeleben, Q. Guan, B. Atkinson, W. Jones
+   FaultInjection/Recovery Presentation. The pptx has movies.
 
 ######SIAM_presentation.pdf
    Hashing in the Scientific World -- LA-UR-13-22598, Version 2
