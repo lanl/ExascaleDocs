@@ -43,6 +43,12 @@ GPU Strategies for Unstructured Mesh Physics presentation
 ###Papers:
 ==============
 
+######ThoughtfulPrecision.pdf
+Thoughtful Precision in Mini-Apps
+    Fogerty, Bishnu, Zamora, Monroe, Poole, Lam, Schoonover, Robey
+    Los Alamos Technical Report LA-UR-17-25426, 2017
+    IEEE Cluster 2017, Workshop on Representative Applications (WRAp), Sept 2017
+
 ######ForOpenCL.pdf
 Exploiting First-class Arrays in Fortran for Accelerator Programming
     Sottile, Rasmussen, Weseloh, Robey, Quinlan, Overbye, 2011 -- LA-UR-10-08340
