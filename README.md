@@ -49,6 +49,13 @@ Thoughtful Precision in Mini-Apps
     Los Alamos Technical Report LA-UR-17-25426, 2017
     IEEE Cluster 2017, Workshop on Representative Applications (WRAp), Sept 2017
 
+######ComputationalReproducibiltyNRE2015.pdf
+Computational Reproducibility in Production Physics Applications,
+    Los Alamos Technical Report LA-UR-15-26450, 2015
+    Robey, R.W.
+    Numerical Reproducibility at Exascale Workshop (NRE2015), Supercomputing
+       Conference 2015
+
 ######ForOpenCL.pdf
 Exploiting First-class Arrays in Fortran for Accelerator Programming
     Sottile, Rasmussen, Weseloh, Robey, Quinlan, Overbye, 2011 -- LA-UR-10-08340
